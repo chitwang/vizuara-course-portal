@@ -16,5 +16,5 @@ app.use('/api/payment', require('./routes/payment'))
 
 
 app.listen(port, () => {
-  console.log(`iNotebook backend listening at http://localhost:${port}`)
+  console.log(`Vizuara backend listening at http://localhost:${port}`)
 })

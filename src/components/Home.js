@@ -5,7 +5,7 @@ export const Home = () => {
 
     return (
         <div> 
-            <Login/>
+           <h1>Vizuara Course Portal</h1>
         </div>
     )
 }

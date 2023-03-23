@@ -11,6 +11,7 @@ import Pay from './components/Pay';
 import Signup from './components/Signup';
 import Login from './components/Login';
 import Details from "./components/Details";
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (
@@ -27,9 +28,10 @@ function App() {
               <Route exact path="/pay/:id">
                 <Pay />
               </Route>
-              <Route exact path="/details">
+              <Route exact path="/details/:id">
                 <Details />
               </Route>
+              <Route exact path="/dashboard"><Dashboard/></Route>
               <Route exact path="/about">
                 <About />
               </Route>

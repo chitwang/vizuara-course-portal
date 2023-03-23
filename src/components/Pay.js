@@ -1,7 +1,7 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 import axios from "axios";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { useHistory } from "react-router-dom";
 function App() {
   let history = useHistory();
@@ -78,10 +78,10 @@ function App() {
                         }
                       );
                       const json = await response.json();
-                        alert("Course added successfully");
-                        console.log(json.msg)
+                        alert(json.msg);
+                        // console.log(json.msg)
                         if(json.success){
-                          history.push("/details");
+                          history.replace(`/details/${courseId}`);
                         }
                     } catch (error) {
                       console.error(error);
@@ -92,11 +92,11 @@ function App() {
                   }
                 } catch (error) {
                   console.error(error);
-                  alert("Error");
+                  alert(error);
                 }
               },
             prefill: {
-                name: "Soumya Dey",
+                name: "Vizuara",
                 email: "SoumyaDey@example.com",
                 contact: "9999999999",
             },
@@ -111,16 +111,33 @@ function App() {
         const paymentObject = new window.Razorpay(options);
         paymentObject.open();
     }
-
+    const [paid, setpaid] = useState(false);
+    useEffect(() => {
+      const checkpaid = async() => {
+        let response = await fetch(`http://localhost:5000/api/auth/check/${courseId}`, {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+            "auth-token": localStorage.getItem('token')
+          }
+        });
+        let json = await response.json()
+        setpaid(json.success);
+      }
+      checkpaid();
+    }, [])
     return (
-        <div className="App">
+      <div className="App">
+      {!(localStorage.getItem('token')) ? <h2>You are not authorized to access the page. Kindly Login/Signup and try again.</h2> : <div>
+        {paid ? <><h2>You have already paid for the course. You can proceed to view the course by clicking on the below link.</h2> <Link to={`details/${courseId}`}>View Course</Link></> :
             <header className="App-header">
-                {/* <img src={logo} className="App-logo" alt="logo" /> */}
-                <p>Buy React now!</p>
+                
+                <p>Buy Course Now!</p>
                 <button className="App-link" onClick={displayRazorpay}>
-                    Pay ₹1
+                    Pay ₹{}
                 </button>
-            </header>
+            </header>}
+            </div>}
         </div>
     );
 }
