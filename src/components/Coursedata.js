@@ -2,355 +2,355 @@ const CourseData =
   [
     {
         "name": "Human heart",
-        "tags": ["Human heart", "cardio", "biology", "blood", "circulation", "arteries", "veins", "pumping", "atria", " ventricles", "valves", "cbse class10 biology", "Life processes"],
+        "tags": ["Human heart", "cardio",  "blood", "circulation", "arteries", "veins", "pumping", "atria", " ventricles", "valves",  "Life processes"],
         "id": 1,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Human brain",
-        "tags": ["human brain", "cerebrum", " cerebellum", " brainstem", " thalamus", " hypothalamus", " basal ganglia", " hippocampus", "Human brain", " biology", " cbse class10 biology", "Life processes", "Control and Coordination"],
+        "tags": ["human brain", "cerebrum", " cerebellum", " brainstem", " thalamus", " hypothalamus", " basal ganglia", " hippocampus", "Human brain",   "Life processes", "Control and Coordination"],
         "id": 2,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Human excretory system",
-        "tags": ["Human excretory system", " excretion", " biology", "kidneys", " ureters", " bladder", " urethra", " adrenal glands", " cbse class10 biology", "Life processes"],
+        "tags": ["Human excretory system", " excretion",  "kidneys", " ureters", " bladder", " urethra", " adrenal glands",  "Life processes"],
         "id": 3,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Nephron",
-        "tags": ["glomerulus", " Bowman's capsule", " proximal tubule", " loop of Henle", " distal tubule", " collecting duct", " renal corpuscle", "Nephron", " cbse class10 biology", "Life processes"],
+        "tags": ["glomerulus", " Bowman's capsule", " proximal tubule", " loop of Henle", " distal tubule", " collecting duct", " renal corpuscle", "Nephron",  "Life processes"],
         "id": 4,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Human respiratory system",
-        "tags": ["nose", " pharynx", " larynx", " trachea", " bronchi", " bronchioles", " alveoli", " lungs", " diaphragm", "Human respiratory system", "respiration", " breathing", " cbse class10 biology", "Life processes"],
+        "tags": ["nose", " pharynx", " larynx", " trachea", " bronchi", " bronchioles", " alveoli", " lungs", " diaphragm", "Human respiratory system", "respiration", " breathing",  "Life processes"],
         "id": 5,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Human circulatory system",
-        "tags": ["Human", "heart", "cardio", "biology", "blood", "circulation", "arteries", "veins", "pumping", "atria", " ventricles", " valves", " capillaries", " lymphatic system", " lymph", " cbse class10 biology", "Life processes"],
+        "tags": ["Human", "heart", "cardio",  "blood", "circulation", "arteries", "veins", "pumping", "atria", " ventricles", " valves", " capillaries", " lymphatic system", " lymph",  "Life processes"],
         "id": 6,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Krebs cycle in Mitochondria",
-        "tags": ["citric acid cycle", " TCA cycle", " acetyl-CoA", " NADH", " FADH2", " ATP", " succinate", " malate", " oxaloacetate", "mitochondria", " ATP", " cellular respiration", " oxidative phosphorylation", " electron transport chain", " Krebs cycle", " matrix", " inner membrane", " outer membrane", " apoptosis", " cbse class10 biology", "Life processes"],
+        "tags": ["citric acid cycle", " TCA cycle", " acetyl-CoA", " NADH", " FADH2", " ATP", " succinate", " malate", " oxaloacetate", "mitochondria", " ATP", " cellular respiration", " oxidative phosphorylation", " electron transport chain", " Krebs cycle", " matrix", " inner membrane", " outer membrane", " apoptosis",  "Life processes"],
         "id": 7,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Factors affecting resistances",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances", " cbse class10 physics", "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 8,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Ohm's law",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances", " cbse class10 physics", "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 9,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in parallel- Part 1",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances", " cbse class10 physics", "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 10,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in parallel- Part 2",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances", " cbse class10 physics", "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 11,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in series- Part 1",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances", " cbse class10 physics", "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 12,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in series- Part 2",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances", " cbse class10 physics", "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 13,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Electric current produces a magnetic field",
-        "tags": ["Ampere's law", " solenoid", " magnetic field lines", " right-hand rule", " electromagnets", " magnetic field strength", " magnetic flux density", " Lorentz force", " cyclotron motion", "magnetic field due to a current-carrying wire", " Electric current produces a magnetic field", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["Ampere's law", " solenoid", " magnetic field lines", " right-hand rule", " electromagnets", " magnetic field strength", " magnetic flux density", " Lorentz force", " cyclotron motion", "magnetic field due to a current-carrying wire", " Electric current produces a magnetic field",  "Magnetic effects of electric current"],
         "id": 14,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Electric Motor",
-        "tags": ["magnetic field", " electric current", " commutator", " armature", " rotor", " stator", " electromagnetism", " Lorentz force", " torque", " rotation", " brushless motor", " direct current motor", " alternating current motor", " Electric Motor", " electric motor efficiency", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["magnetic field", " electric current", " commutator", " armature", " rotor", " stator", " electromagnetism", " Lorentz force", " torque", " rotation", " brushless motor", " direct current motor", " alternating current motor", " Electric Motor", " electric motor efficiency",  "Magnetic effects of electric current"],
         "id": 15,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Electric Generator",
-        "tags": ["magnetic field", " electric current", " commutator", " armature", " rotor", " stator", " electromagnetism", " Lorentz force", " torque", " rotation", " brushless motor", " direct current motor", " alternating current motor", " Electric Generator", " electric motor efficiency", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["magnetic field", " electric current", " commutator", " armature", " rotor", " stator", " electromagnetism", " Lorentz force", " torque", " rotation", " brushless motor", " direct current motor", " alternating current motor", " Electric Generator", " electric motor efficiency",  "Magnetic effects of electric current"],
         "id": 16,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Electromagnetic Induction",
-        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications",  "Magnetic effects of electric current"],
         "id": 17,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Electromagnetic Induction - Part 2",
-        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications",  "Magnetic effects of electric current"],
         "id": 18,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Magnetic Field",
-        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", "Magnetic Field", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", "Magnetic Field",  "Magnetic effects of electric current"],
         "id": 19,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Magnetic Field - Current in a circular loop",
-        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", "Magnetic Field - Current in a circular loop", "Magnetic Field", " cbse class10 physics", "Magnetic effects of electric current"],
+        "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", "Magnetic Field - Current in a circular loop", "Magnetic Field",  "Magnetic effects of electric current"],
         "id": 20,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
      {
          "name": "Magnetic Field - Current in a Solenoid",
-         "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", "Magnetic Field - Current in a Solenoid", "Magnetic Field", " cbse class10 physics", "Magnetic effects of electric current"],
+         "tags": ["Faraday's law", " Lenz's law", " magnetic flux", " transformer", " generator", " alternator", " electromagnetic waves", " induction coil", " electric current", " magnetic field", " eddy currents", " mutual induction", " self-induction", " Electromagnetic Induction", " electromagnetic induction applications", "Magnetic Field - Current in a Solenoid", "Magnetic Field",  "Magnetic effects of electric current"],
          "id": 21,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Reflection in Concave Mirrors",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation",  "Light Reflection and Refraction"],
          "id": 22,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Reflection in Concave Lenses",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation",  "Light Reflection and Refraction"],
          "id": 23,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Reflection in Convex Mirrors",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", "Reflection in Convex Lenses", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", "Reflection in Convex Lenses",  "Light Reflection and Refraction"],
          "id": 24,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Reflection in Convex Lenses",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", " refraction in convex lenses", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", " refraction in convex lenses",  "Light Reflection and Refraction"],
          "id": 25,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Nomenclature in Concave Mirrors",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation", "Nomenclature in Concave Mirrors", " cbse class10 physics", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation", "Nomenclature in Concave Mirrors",   "Light Reflection and Refraction"],
          "id": 26,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Nomenclature in Convex Mirrors",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation", "Nomenclature in Convex Mirrors", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging rays", " diverging rays", " ray diagrams", " mirror equation", "Nomenclature in Convex Mirrors",  "Light Reflection and Refraction"],
          "id": 27,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Nomenclature in Concave Lenses",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", "Nomenclature in Concave Lenses", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", "Nomenclature in Concave Lenses",  "Light Reflection and Refraction"],
          "id": 28,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Nomenclature in Convex Lenses",
-         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", "Nomenclature in Convex Lenses", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["focal point", " principal axis", " center of curvature", " real image", " virtual image", " magnification", " object distance", " image distance", " converging lens", " diverging lens", " lens equation", " Snell's law", " total internal reflection", " critical angle", " optical power", "Nomenclature in Convex Lenses",  "Light Reflection and Refraction"],
          "id": 29,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Refraction",
-         "tags": ["light", " electromagnetic waves", " optical density", " refractive index", " angle of incidence", " angle of refraction", " Snell's law", " critical angle", " total internal reflection", " prism", " lens", " optical fiber", " dispersion", " chromatic aberration", " wavefront", " cbse class10 physics", "Light Reflection and Refraction"],
+         "tags": ["light", " electromagnetic waves", " optical density", " refractive index", " angle of incidence", " angle of refraction", " Snell's law", " critical angle", " total internal reflection", " prism", " lens", " optical fiber", " dispersion", " chromatic aberration", " wavefront",  "Light Reflection and Refraction"],
          "id": 30,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Binary Fission",
-         "tags": ["cell division", " asexual reproduction", " mitosis", " daughter cells", " prokaryotes", " unicellular organisms", " DNA replication", " cytokinesis", " bacterial growth", " cell elongation", " cbse class10 biology", "How do Organisms Reproduce"],
+         "tags": ["cell division", " asexual reproduction", " mitosis", " daughter cells", " prokaryotes", " unicellular organisms", " DNA replication", " cytokinesis", " bacterial growth", " cell elongation",  "How do Organisms Reproduce"],
          "id": 31,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Reproduction in Flowering Plants",
-         "tags": ["pollination", " fertilization", " stamen", " anther", " pollen", " pistil", " stigma", " style", " ovary", " ovule", " embryo sac", " double fertilization", " seed development", " seed dispersal", " fruit development", " sexual reproduction", " asexual reproduction", " self-pollination", " cross-pollination", " gametogenesis", " Reproduction in Flowering Plants", "Reproduction in Plants", " cbse class10 biology", "How do Organisms Reproduce"],
+         "tags": ["pollination", " fertilization", " stamen", " anther", " pollen", " pistil", " stigma", " style", " ovary", " ovule", " embryo sac", " double fertilization", " seed development", " seed dispersal", " fruit development", " sexual reproduction", " asexual reproduction", " self-pollination", " cross-pollination", " gametogenesis", " Reproduction in Flowering Plants", "Reproduction in Plants",  "How do Organisms Reproduce"],
          "id": 32,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Male Reproductive System",
-         "tags": ["testes", " scrotum", " epididymis", " vas deferens", " seminal vesicles", " prostate gland", " urethra", " penis", " spermatozoa", " spermatogenesis", " testosterone", " seminiferous tubules", " Leydig cells", " ejaculatory duct", " seminal fluid", "Male Reproductive System", "Reproductive System", " cbse class10 biology", "How do Organisms Reproduce"],
+         "tags": ["testes", " scrotum", " epididymis", " vas deferens", " seminal vesicles", " prostate gland", " urethra", " penis", " spermatozoa", " spermatogenesis", " testosterone", " seminiferous tubules", " Leydig cells", " ejaculatory duct", " seminal fluid", "Male Reproductive System", "Reproductive System",  "How do Organisms Reproduce"],
          "id": 33,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Female Reproductive System",
-         "tags": ["ovaries", " fallopian tubes", " uterus", " cervix", " vagina", " vulva", " clitoris", " labia", " menstrual cycle", " oogenesis", " ovulation", " fertilization", " implantation", " gestation", " placenta", " estrogen", " progesterone", " mammary glands", " menopause", "Female Reproductive System", "Reproductive System", " cbse class10 biology", "How do Organisms Reproduce"],
+         "tags": ["ovaries", " fallopian tubes", " uterus", " cervix", " vagina", " vulva", " clitoris", " labia", " menstrual cycle", " oogenesis", " ovulation", " fertilization", " implantation", " gestation", " placenta", " estrogen", " progesterone", " mammary glands", " menopause", "Female Reproductive System", "Reproductive System",  "How do Organisms Reproduce"],
          "id": 34,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "The complete interactive periodic table",
-         "tags": ["elements", " atomic number", " atomic mass", " groups", " periods", " metals", " nonmetals", " metalloids", " alkali metals", " alkaline earth metals", " transition metals", " halogens", " noble gases", " periodicity", " electron configuration", " valence electrons", " chemical properties", " physical properties", " isotopes", " periodic trends", " periodic law", " periodic table", " cbse class10 chemistry", "Periodic Classification of Elements"],
+         "tags": ["elements", " atomic number", " atomic mass", " groups", " periods", " metals", " nonmetals", " metalloids", " alkali metals", " alkaline earth metals", " transition metals", " halogens", " noble gases", " periodicity", " electron configuration", " valence electrons", " chemical properties", " physical properties", " isotopes", " periodic trends", " periodic law", " periodic table",  "Periodic Classification of Elements"],
          "id": 35,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Nervous System in Animals",
-         "tags": ["neurons", " synapses", " neurotransmitters", " central nervous system (CNS)", " peripheral nervous system (PNS)", " brain", " spinal cord", " sensory neurons", " motor neurons", " interneurons", " action potential", " dendrites", " axons", " myelin sheath", " glial cells", " reflexes", " somatic nervous system", " autonomic nervous system", " sympathetic nervous system", " parasympathetic nervous system", " neurotransmitter receptors", "Nervous System in Animals", " cbse class10 biology", "Control and Coordination"],
+         "tags": ["neurons", " synapses", " neurotransmitters", " central nervous system (CNS)", " peripheral nervous system (PNS)", " brain", " spinal cord", " sensory neurons", " motor neurons", " interneurons", " action potential", " dendrites", " axons", " myelin sheath", " glial cells", " reflexes", " somatic nervous system", " autonomic nervous system", " sympathetic nervous system", " parasympathetic nervous system", " neurotransmitter receptors", "Nervous System in Animals",  "Control and Coordination"],
          "id": 36,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Reflex Actions - Spinal Cords",
-         "tags": ["sensory neurons", " motor neurons", " reflex arc", " knee-jerk reflex", " withdrawal reflex", " spinal cord injury", " reflexes", " interneurons", " stretch receptors", " muscle spindles", " Golgi tendon organs", " reflex response", " synaptic transmission", " gray matter", " white matter", " spinal cord pathways", "Reflex Actions - Spinal Cords", " cbse class10 biology", "Control and Coordination"],
+         "tags": ["sensory neurons", " motor neurons", " reflex arc", " knee-jerk reflex", " withdrawal reflex", " spinal cord injury", " reflexes", " interneurons", " stretch receptors", " muscle spindles", " Golgi tendon organs", " reflex response", " synaptic transmission", " gray matter", " white matter", " spinal cord pathways", "Reflex Actions - Spinal Cords",  "Control and Coordination"],
          "id": 37,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Endocrine Glands",
-         "tags": ["hormones", " pituitary gland", " thyroid gland", " parathyroid gland", " adrenal gland", " pancreas", " gonads", " hypothalamus", " pineal gland", " thymus", " endocrine system", " feedback mechanism", " target cells", " steroid hormones", " peptide hormones", " growth hormone", " insulin", " glucagon", " thyroid hormone", " adrenaline", " cortisol", " melatonin", " estrogen", " progesterone", " testosterone", " cbse class10 biology", "Control and Coordination"],
+         "tags": ["hormones", " pituitary gland", " thyroid gland", " parathyroid gland", " adrenal gland", " pancreas", " gonads", " hypothalamus", " pineal gland", " thymus", " endocrine system", " feedback mechanism", " target cells", " steroid hormones", " peptide hormones", " growth hormone", " insulin", " glucagon", " thyroid hormone", " adrenaline", " cortisol", " melatonin", " estrogen", " progesterone", " testosterone",  "Control and Coordination"],
          "id": 38,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Central and Peripheral Nervous System",
-         "tags": ["brain", " spinal cord", " neurons", " glial cells", " synapses", " neurotransmitters", " sensory neurons", " motor neurons", " interneurons", " axons", " dendrites", " myelin sheath", " gray matter", " white matter", " cerebrum", " cerebellum", " brain stem", " autonomic nervous system", " sympathetic nervous system", " parasympathetic nervous system", " somatic nervous system", " cranial nerves", " spinal nerves", " ganglia", " reflexes", " homeostasis", " cbse class10 biology", "Control and Coordination"],
+         "tags": ["brain", " spinal cord", " neurons", " glial cells", " synapses", " neurotransmitters", " sensory neurons", " motor neurons", " interneurons", " axons", " dendrites", " myelin sheath", " gray matter", " white matter", " cerebrum", " cerebellum", " brain stem", " autonomic nervous system", " sympathetic nervous system", " parasympathetic nervous system", " somatic nervous system", " cranial nerves", " spinal nerves", " ganglia", " reflexes", " homeostasis",  "Control and Coordination"],
          "id": 39,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "The Myopic Eye",
-         "tags": ["blurry vision", " refractive error", " axial myopia", " nearsightedness", " glasses", " contact lenses", " laser eye surgery", " elongation of eyeball", " diopters", " astigmatism", " corneal curvature", " blurred distance vision", " visual acuity", " progressive myopia", " high myopia", " retinal detachment", "The Myopic Eye", " cbse class10 biology", "Human Eye and the Colorful World"],
+         "tags": ["blurry vision", " refractive error", " axial myopia", " nearsightedness", " glasses", " contact lenses", " laser eye surgery", " elongation of eyeball", " diopters", " astigmatism", " corneal curvature", " blurred distance vision", " visual acuity", " progressive myopia", " high myopia", " retinal detachment", "The Myopic Eye",  "Human Eye and the Colorful World"],
          "id": 40,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "What is Hypermetropia?",
-         "tags": ["refractive error", " distant vision", " near vision", " presbyopia", " corrective lenses", " glasses", " contact lenses", " refractive surgery", " accommodative insufficiency", " blurred close-up vision", " eye strain", " visual acuity", " hyperopia", " astigmatism", " cbse class10 biology", "Human Eye and the Colorful World"],
+         "tags": ["refractive error", " distant vision", " near vision", " presbyopia", " corrective lenses", " glasses", " contact lenses", " refractive surgery", " accommodative insufficiency", " blurred close-up vision", " eye strain", " visual acuity", " hyperopia", " astigmatism",  "Human Eye and the Colorful World"],
          "id": 41,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "What is the color of sun at sunrise and sunset?",
-         "tags": ["atmospheric scattering", " Rayleigh scattering", " blue light", " red light", " color spectrum", " atmospheric conditions", " horizon", " Earth's atmosphere", " sunrise", " sunset", " yellow-orange hues", " pink", " purple", " orange-red", " optical illusion", " solar disk", "What is the color of sun at sunrise and sunset", " cbse class10 physics", "Human Eye and the Colorful World"],
+         "tags": ["atmospheric scattering", " Rayleigh scattering", " blue light", " red light", " color spectrum", " atmospheric conditions", " horizon", " Earth's atmosphere", " sunrise", " sunset", " yellow-orange hues", " pink", " purple", " orange-red", " optical illusion", " solar disk", "What is the color of sun at sunrise and sunset",  "Human Eye and the Colorful World"],
          "id": 42,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Dispersion of light through a raindrop",
-         "tags": ["refraction", " reflection", " angle of incidence", " angle of reflection", " Snell's law", " wavelength", " light spectrum", " Roy G. Biv", " primary colors", " secondary colors", " color sequence", " circular arc", " sunlight", " droplets", " atmospheric conditions", " prism effect", " total internal reflection", " and double rainbow", "Dispersion of light through a raindrop", " cbse class10 physics", "Human Eye and the Colorful World"],
+         "tags": ["refraction", " reflection", " angle of incidence", " angle of reflection", " Snell's law", " wavelength", " light spectrum", " Roy G. Biv", " primary colors", " secondary colors", " color sequence", " circular arc", " sunlight", " droplets", " atmospheric conditions", " prism effect", " total internal reflection", " and double rainbow", "Dispersion of light through a raindrop",  "Human Eye and the Colorful World"],
          "id": 43,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Effect of solutions on red and blue litmus paper",
-         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration", " cbse class10 chemistry", "Acids", " Bases and Salts"],
+         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration",  "Acids", " Bases and Salts"],
          "id": 44,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Effect of solutions on litmus papers, turmeric solution and china rose solution",
-         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration", " cbse class10 chemistry", "Acids", " Bases and Salts"],
+         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration",  "Acids", " Bases and Salts"],
          "id": 45,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Neutralization",
-         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration", "Neutralization", " cbse class10 chemistry", " cbse class10 chemistry", "Acids", " Bases and Salts"],
+         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration", "Neutralization",   "Acids", " Bases and Salts"],
          "id": 46,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "pH of indicators",
-         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration", "pH of indicators", " cbse class10 chemistry", " cbse class10 chemistry", "Acids", " Bases and Salts"],
+         "tags": ["acid", " base", " pH", " indicator", " litmus paper", " neutralization", " hydrogen ion concentration", " alkalinity", " acidity", " color change", " red litmus paper", " blue litmus paper", " acidic solution", " basic solution", " acid-base reaction", " acidic oxide", " basic oxide", " acid dissociation constant", " titration", "pH of indicators",   "Acids", " Bases and Salts"],
          "id": 47,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Combination Reaction",
-         "tags": ["synthesis", " reactants", " product", " chemical reaction", " exothermic", " endothermic", " energy", " combustion", " oxidation", " reduction", " bond formation", " chemical equation", " chemical formula", " chemical compound", " chemical synthesis", " chemical bonds", " chemical energy", " reaction rate", " cbse class10 chemistry", " cbse class10 chemistry", "Chemical Reactions and Equations"],
+         "tags": ["synthesis", " reactants", " product", " chemical reaction", " exothermic", " endothermic", " energy", " combustion", " oxidation", " reduction", " bond formation", " chemical equation", " chemical formula", " chemical compound", " chemical synthesis", " chemical bonds", " chemical energy", " reaction rate",   "Chemical Reactions and Equations"],
          "id": 48,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Decomposition Reaction 1",
-         "tags": ["thermal decomposition", " electrolysis", " photolysis", " chemical reaction", " reactants", " products", " exothermic", " endothermic", " energy", " oxidation", " reduction", " chemical equation", " chemical formula", " chemical compound", " chemical bonds", " chemical energy", " decomposition rate", " chemical stability", " free radicals", " decomposition reaction", " cbse class10 chemistry", "Chemical Reactions and Equations"],
+         "tags": ["thermal decomposition", " electrolysis", " photolysis", " chemical reaction", " reactants", " products", " exothermic", " endothermic", " energy", " oxidation", " reduction", " chemical equation", " chemical formula", " chemical compound", " chemical bonds", " chemical energy", " decomposition rate", " chemical stability", " free radicals", " decomposition reaction",  "Chemical Reactions and Equations"],
          "id": 49,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Decomposition Reaction 2",
-         "tags": ["thermal decomposition", " electrolysis", " photolysis", " chemical reaction", " reactants", " products", " exothermic", " endothermic", " energy", " oxidation", " reduction", " chemical equation", " chemical formula", " chemical compound", " chemical bonds", " chemical energy", " decomposition rate", " chemical stability", " free radicals", " decomposition reaction", " cbse class10 chemistry", "Chemical Reactions and Equations"],
+         "tags": ["thermal decomposition", " electrolysis", " photolysis", " chemical reaction", " reactants", " products", " exothermic", " endothermic", " energy", " oxidation", " reduction", " chemical equation", " chemical formula", " chemical compound", " chemical bonds", " chemical energy", " decomposition rate", " chemical stability", " free radicals", " decomposition reaction",  "Chemical Reactions and Equations"],
          "id": 50,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Double Displacement Reaction",
-         "tags": ["precipitation", " ionic compounds", " aqueous solution", " acid-base reactions", " neutralization reactions", " salt formation", " reactants", " products", " chemical equation", " chemical formula", " chemical reaction", " precipitate", " ionic bond", " covalent bond", " solubility", " reaction rate", " reaction mechanism", " spectator ions", "Double Displacement Reaction", " cbse class10 chemistry", "Chemical Reactions and Equations"],
+         "tags": ["precipitation", " ionic compounds", " aqueous solution", " acid-base reactions", " neutralization reactions", " salt formation", " reactants", " products", " chemical equation", " chemical formula", " chemical reaction", " precipitate", " ionic bond", " covalent bond", " solubility", " reaction rate", " reaction mechanism", " spectator ions", "Double Displacement Reaction",  "Chemical Reactions and Equations"],
          "id": 51,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Average speed n",
-         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Average speed", " cbse class10 physics", "Motion"],
+         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Average speed",  "Motion"],
          "id": 52,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Average velocity",
-         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Average velocity", " cbse class10 physics", "Motion"],
+         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Average velocity",  "Motion"],
          "id": 53,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Circular motion",
-         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " circular motion", " rotatory motion", " rotation", " cbse class10 physics", "Motion"],
+         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " circular motion", " rotatory motion", " rotation",  "Motion"],
          "id": 54,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Distance and Displacement",
-         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Distance and Displacement", " cbse class10 physics", "Motion"],
+         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Distance and Displacement",  "Motion"],
          "id": 55,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Distance-Time Graph",
-         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Distance-Time Graph", " cbse class10 physics", "Motion"],
+         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Distance-Time Graph",  "Motion"],
          "id": 56,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Velocity-Time Graph",
-         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Velocity-Time Graph", " cbse class10 physics", "Motion"],
+         "tags": ["velocity", " speed", " acceleration", " distance", " displacement", " time", " position", " direction", " vector", " scalar", " momentum", " force", " inertia", " kinematics", " dynamics", " mechanics", " potential energy", " kinetic energy", " friction", " gravity", " equilibrium", " free fall", " projectile motion", " circular motion", " relative motion", " Velocity-Time Graph",  "Motion"],
          "id": 57,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Force laboratory 1",
-         "tags": ["Newton's laws of motion", " momentum", " acceleration", " velocity", " speed", " friction", " gravity", " inertia", " work", " power", " energy", " potential energy", " kinetic energy", " force fields", " centripetal force", " torque", " angular velocity", " angular acceleration", " conservation of momentum", " impulse", " elastic collisions", " inelastic collisions", " terminal velocity", " gravitational force", " cbse class10 physics", "Forces and laws of motion"],
+         "tags": ["Newton's laws of motion", " momentum", " acceleration", " velocity", " speed", " friction", " gravity", " inertia", " work", " power", " energy", " potential energy", " kinetic energy", " force fields", " centripetal force", " torque", " angular velocity", " angular acceleration", " conservation of momentum", " impulse", " elastic collisions", " inelastic collisions", " terminal velocity", " gravitational force",  "Forces and laws of motion"],
          "id": 58,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Collision lab",
-         "tags": ["Newton's laws of motion", " momentum", " acceleration", " velocity", " speed", " friction", " gravity", " inertia", " work", " power", " energy", " potential energy", " kinetic energy", " force fields", " centripetal force", " torque", " angular velocity", " angular acceleration", " conservation of momentum", " impulse", " elastic collisions", " inelastic collisions", " terminal velocity", " gravitational force", " cbse class10 physics", "Forces and laws of motion"],
+         "tags": ["Newton's laws of motion", " momentum", " acceleration", " velocity", " speed", " friction", " gravity", " inertia", " work", " power", " energy", " potential energy", " kinetic energy", " force fields", " centripetal force", " torque", " angular velocity", " angular acceleration", " conservation of momentum", " impulse", " elastic collisions", " inelastic collisions", " terminal velocity", " gravitational force",  "Forces and laws of motion"],
          "id": 59,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
@@ -740,73 +740,73 @@ const CourseData =
      },
      {
          "name": "The Solar System",
-         "tags": ["constellations", " planets", " asteroids", " meteoroids", " comets", " nebulae", " black holes", " supernovae", " galaxies", " Milky Way", " solar system", " sun", " moon", " Earth", " orbits", " celestial bodies", " space exploration", "Stars and the Solar System", "Mercury", " Venus", " Earth", " Mars", " Jupiter", " Saturn", " Uranus", " Neptune", "cbse class8 physics"],
+         "tags": ["constellations", " planets", " asteroids", " meteoroids", " comets", " nebulae", " black holes", " supernovae", " galaxies", " Milky Way", " solar system", " sun", " moon", " Earth", " orbits", " celestial bodies", " space exploration", "Stars and the Solar System", "Mercury", " Venus", " Earth", " Mars", " Jupiter", " Saturn", " Uranus", " Neptune", ],
          "id": 124,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Multiple Reflections",
-         "tags": ["Light", "reflections", "Multiple Reflections", "cbse class8 physics"],
+         "tags": ["Light", "reflections", "Multiple Reflections", ],
          "id": 125,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Concept of Reflection",
-         "tags": ["Light", "reflection", " concept of reflection", "cbse class8 physics"],
+         "tags": ["Light", "reflection", " concept of reflection", ],
          "id": 126,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Surface Reflections",
-         "tags": ["Light", "reflection", "Surface Reflections", "cbse class8 physics"],
+         "tags": ["Light", "reflection", "Surface Reflections", ],
          "id": 127,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Light through prism",
-         "tags": ["Light", "Light through prism", "prism", " refraction", "cbse class8 physics"],
+         "tags": ["Light", "Light through prism", "prism", " refraction", ],
          "id": 128,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Plant Cell",
-         "tags": ["Cell-Structure and Functions", "Plant Cell", "cell", "cbse class8 biology"],
+         "tags": ["Cell-Structure and Functions", "Plant Cell", "cell", ],
          "id": 129,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Bacterial Cell",
-         "tags": ["Cell-Structure and Functions", "Bacterial Cell", "cell", "cbse class8 biology"],
+         "tags": ["Cell-Structure and Functions", "Bacterial Cell", "cell", ],
          "id": 130,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "The concept of friction",
-         "tags": ["Friction", "force", " resistance", " surface", " coefficient", " static", " kinetic", " sliding", " rolling", " fluid", " lubrication", " heat", " wear", " grip", " traction", " brake", "cbse class8 physics"],
+         "tags": ["Friction", "force", " resistance", " surface", " coefficient", " static", " kinetic", " sliding", " rolling", " fluid", " lubrication", " heat", " wear", " grip", " traction", " brake", ],
          "id": 131,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Factors affecting friction",
-         "tags": ["Friction", "force", " resistance", " surface", " coefficient", " static", " kinetic", " sliding", " rolling", " fluid", " lubrication", " heat", " wear", " grip", " traction", " brake", "cbse class8 physics"],
+         "tags": ["Friction", "force", " resistance", " surface", " coefficient", " static", " kinetic", " sliding", " rolling", " fluid", " lubrication", " heat", " wear", " grip", " traction", " brake", ],
          "id": 132,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Chemical Reactions in Liquids",
-         "tags": ["Chemical Effects of electric current", "Chemical Reactions in Liquids", "cbse class8 chemistry"],
+         "tags": ["Chemical Effects of electric current", "Chemical Reactions in Liquids", ],
          "id": 133,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Bulb as a tester for conductivity",
-         "tags": ["Chemical Effects of electric current", "Bulb as a tester for conductivity", "cbse class8 chemistry"],
+         "tags": ["Chemical Effects of electric current", "Bulb as a tester for conductivity", ],
          "id": 134,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
      {
          "name": "Magnetic compass as a tester for conductivity",
-         "tags": ["Chemical Effects of electric current", "Magnetic compass as a tester for conductivity", "cbse class8 chemistry"],
+         "tags": ["Chemical Effects of electric current", "Magnetic compass as a tester for conductivity", ],
          "id": 135,
          "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
      },
