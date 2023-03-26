@@ -157,37 +157,42 @@
 import React, { useState } from 'react';
 import Course from './Course';
 import CourseData from './Coursedata';
-import Embeddings from './Embeddings';
-
-require('@tensorflow/tfjs');
-const use = require('@tensorflow-models/universal-sentence-encoder');
-var similarity = require('cosine-similarity');
+// import Embeddings from './Embeddings';
+var stringSimilarity = require("string-similarity");
+// require('@tensorflow/tfjs');
+// const use = require('@tensorflow-models/universal-sentence-encoder');
+// var similarity = require('cosine-similarity');
 
 
 const About = () => {
   const [filteredCourses, setFilteredCourses] = useState([]);
 
   const handleSearch = async () => {
-    const model = await use.load();
+    // const model = await use.load();
+    // for (let i = 0; i < courses.length; i++) {
+    //   const queryembed = await model.embed(searchQuery);
+    //   const queryembedarray = queryembed.arraySync()[0];
+    //   const correlationscore = similarity(Embeddings[i], queryembedarray);
+    //   if (correlationscore > 0.6) {
+    //     relevantCourses.push(courses[i]);
+    //   }
+    // }
     const searchQuery = document.getElementById('search-input').value;
 
-    // Filter the courses based on relevance
     const courses = CourseData;
-
-
     const relevantCourses = [];
-    for (let i = 0; i < courses.length; i++) {
-      const queryembed = await model.embed(searchQuery);
-      const queryembedarray = queryembed.arraySync()[0];
-      const correlationscore = similarity(Embeddings[i], queryembedarray);
-      if (correlationscore > 0.6) {
-        relevantCourses.push(courses[i]);
+    const map1 = new Map();
+    for(let i=0;i<courses.length;i++)
+    {
+      map1.set(i, stringSimilarity.findBestMatch(searchQuery, courses[i].tags).bestMatch.rating);
+    }
+    const mapSort1 = new Map([...map1.entries()].sort((a, b) => b[1] - a[1]));
+    for(let [id,rating] of mapSort1.entries()){
+      if(rating > 0.6 && relevantCourses.length< 5){
+        relevantCourses.push(courses[id]);
       }
     }
-    
     setFilteredCourses(relevantCourses);
-    console.log("done");
-    console.log(relevantCourses.length);
   };
 
   return (
@@ -213,6 +218,7 @@ const About = () => {
             })
           ) : (
             <div>
+              <h4>Displaying the list of all courses. Search to filter</h4>
               {CourseData.map((cour, key) => {
                 return <Course key={key} id={cour.id} name={cour.name}></Course>;
               })}

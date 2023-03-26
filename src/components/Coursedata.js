@@ -32,49 +32,49 @@ const CourseData =
     },
     {
         "name": "Human circulatory system",
-        "tags": ["Human", "heart", "cardio",  "blood", "circulation", "arteries", "veins", "pumping", "atria", " ventricles", " valves", " capillaries", " lymphatic system", " lymph",  "Life processes"],
+        "tags": ["Human", "heart", "cardio",  "blood", "circulation", "arteries", "veins", "pumping", "atria", " ventricles", " valves", " capillaries", " lymphatic system", " lymph",  "Life processes", "Human circulatory system"],
         "id": 6,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Krebs cycle in Mitochondria",
-        "tags": ["citric acid cycle", " TCA cycle", " acetyl-CoA", " NADH", " FADH2", " ATP", " succinate", " malate", " oxaloacetate", "mitochondria", " ATP", " cellular respiration", " oxidative phosphorylation", " electron transport chain", " Krebs cycle", " matrix", " inner membrane", " outer membrane", " apoptosis",  "Life processes"],
+        "tags": ["citric acid cycle", " TCA cycle", " acetyl-CoA", " NADH", " FADH2", " ATP", " succinate", " malate", " oxaloacetate", "mitochondria", " ATP", " cellular respiration", " oxidative phosphorylation", " electron transport chain", " Krebs cycle", " matrix", "Krebs cycle in Mitochondria"," inner membrane", " outer membrane", " apoptosis",  "Life processes"],
         "id": 7,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Factors affecting resistances",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
+        "tags": ["Ohm's law","Ohm law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit","Factors affecting resistances", " power loss", " resistances",  "Electricity"],
         "id": 8,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Ohm's law",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
+        "tags": ["Ohm's law", "Ohm law"," conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 9,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in parallel- Part 1",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
+        "tags": ["Ohm's law", "Ohm law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity","Resistances in parallel"],
         "id": 10,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in parallel- Part 2",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
+        "tags": ["Ohm's law","Ohm law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity","Resistances in parallel"],
         "id": 11,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in series- Part 1",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
+        "tags": ["Ohm's law", "Ohm law"," conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
         "id": 12,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
     {
         "name": "Resistances in series- Part 2",
-        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity"],
+        "tags": ["Ohm's law", " conductors", " insulators", " current", " voltage", " resistance coefficient", " resistivity", " temperature coefficient of resistance", " series circuit", " parallel circuit", " power loss", " resistances",  "Electricity","Resistances in series"],
         "id": 13,
         "description": "In quis sapien ut nunc sollicitudin rhoncus. Aenean pharetra, mauris ut bibendum eleifend, orci turpis mollis nisl, ut dapibus velit enim a mauris. Nullam quis sapien ac sapien convallis faucibus in a urna. Praesent nec enim justo. Sed ornare, lectus id suscipit lobortis, mi turpis interdum diam, vitae tristique elit tortor eu nulla. Duis faucibus nunc sapien, vel vestibulum augue finibus in. Etiam vulputate fermentum ante vel pharetra. Sed sed felis quis leo luctus suscipit. Aenean ultrices gravida justo, quis dapibus mauris bibendum vel."
     },
